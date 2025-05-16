@@ -1,19 +1,20 @@
 # Bank-Marketing-Analysis
-Introduction
+
+## Introduction
 
 In recent years the number of banks have increased from [270 in 2018 ](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/numberofbanks.) to [362 in 2024]( https://www.statista.com/topics/11974/banking-industry-in-the-uk/.), in the Uk. To stay competitive within this dynamic industry, a good marketing strategy is needed to attract and engage old and new customers. Thus the global banking sector tends to spend over [$82 billion (in 2023)](https://seosandwitch.com/bank-marketing-statistics/.) on marketing campaigns to retain and attract new customers. These campaigns need to be customer focused to ensure success or else banks will be burning millions on ineffective campaigns. A report from The Financial Brand found that 63% of banks view that return on investment from marketing campaigns to be their most important performance indicator. For success customer and marketing analysis is needed for banks to understand their customers. 
 
-Aim:
+### Aim:
 Identify clients that are more likely to subscribe to the bank’s term deposit.
 
-Dataset:
+### Dataset:
 The dataset used has relation to a direct marketing campaign from a Portuguese banking institution. The campaign used phone calls to communicate with potential clients. The dataset contains 17 columns and 45211 rows. Information in the dataset is categorised based on customers personal and non-personal characteristics, response to past marketing campaigns, marketing statistics and result to current term deposit subscription. 
 
 The dataset contained no null values and did not need to be standardised.
 
 For the analysis process, multiple data frames were made based on the customers personal and nin-personal characteristics. Plus a dataframe was made to show the overall likelihood of  customers subscribing to a term deposit subscription.
 
-Key Insights
+## Key Insights
 
     • Overall clients were less likely to subscribe to a bank’s term deposit.
     • Clients who had a positive response to past marketing campaigns were more likely to subscribe to a term deposit subscription, with a 64.73 % positive response.
@@ -57,27 +58,7 @@ The most important categories:
 
 Calculating the average and median response change for each category, further proves that previous outcome is the most important category from this bank marketing analysis, followed by contact performed before this campaign. Though it should be noted that the median positive response for Contact performed before this campaign is 23.08%, this is higher compared to the Previous Outcome category, 14.64%. The reason for this is that the distribution for the Previous Outcome category is more skewed compared to the Contact performed before this campaign category. As a result of this, contact performed before this campaign category can be considered the most important category because regardless of the response presented in the category, there is a higher likelihood of clients responding positively to a bank term deposit subscription, compared to the Previous Outcome category. 
 
-
-
-
-Charts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Recommendations
+## Recommendations
 When marketing to clients for term deposits subscription,the marketing teams should focus on marketing to clients who responded positively to past marketing campaigns and clients who have regular contact with the bank. Plus, sales executives should contact clients approximately 5 times or less when promoting new term deposits. Anymore, than this can reduce the likelihood of clients subscribing to current term deposits. 
 
 The personal characteristics of clients who have a higher likely of subscribing to future term deposits are:
@@ -91,18 +72,17 @@ The personal characteristics of clients who have a higher likely of subscribing 
     • Age group of 70+
     • Have a bank balance of 10,000+
 
-Additional:
+### Additional:
 A simple prediction model using the information from this dataset can be found in the jupyter notebook. The model has an accuracy level of 1 and no information was pruned in the creation of the tree prediction model. 
 
 ____________________________________________________________________________
 
-Definition:
+### Definition:
 Bank term deposit: A saving account where you make one off deposit, in which you are not supposed to touch. There is a fixed interest rate that you receive from the account for a certain period.  
 
-
-
-Links:
+### Links:
 Dataset
+[Dataset]([https://archive.ics.uci.edu/dataset/222/bank+marketing])
 
 
 
