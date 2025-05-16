@@ -21,6 +21,7 @@ Key Insights
 The most important categories:
 
 | Categories | Pos Rsp % mean | Neg Rsp % mean |
+|-----:|-----------|-----------|
 | 0 | Age Groups | 19.79 | 80.21 |
 | 1 | Balance Groups | 11.89 | 88.11 |
 | 2 | Duration Groups | 11.89 | 88.11 |
@@ -37,6 +38,7 @@ The most important categories:
 
 
 | Categories | Pos Rsp % median | Neg Rsp % median |
+|-----:|-----------|-----------|
 | 0 | Age Groups | 14.09 | 85.91 |
 | 1 | Balance Groups | 11.82 | 88.18 |
 | 2 | Duration Groups | 11.82 | 88.18 |
