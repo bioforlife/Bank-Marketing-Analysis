@@ -20,36 +20,36 @@ Key Insights
     • Clients who were contacted 40 or more times never subscribed to the bank’s term deposit. This category had the highest level of negative response to ban term deposit subscription
 The most important categories:
 
-	Categories	Pos Rsp % mean	Neg Rsp % mean
-0	Age Groups	19.79	80.21
-1	Balance Groups	11.89	88.11
-2	Duration Groups	11.89	88.11
-3	Campaign groups	4.68	95.32
-4	No. of contacts performed before this campaign	24.13	75.87
-5	Jobs	13.40	86.60
-6	Marital Status	12.34	87.66
-7	Education	11.94	88.06
-8	Default	9.09	90.91
-9	Housing	12.20	87.80
-10	Loan	9.67	90.33
-11	Contact Methods	10.80	89.20
-12	Previous Outcome	25.80	74.20
+Categories | Pos Rsp % mean | Neg Rsp % mean
+0 | Age Groups | 19.79 | 80.21
+1 | Balance Groups | 11.89 | 88.11
+2 | Duration Groups | 11.89 | 88.11
+3 | Campaign groups | 4.68 | 95.32
+4 | No. of contacts performed before this campaign | 24.13 | 75.87
+5 | Jobs | 13.40 | 86.60
+6 | Marital Status | 12.34 | 87.66
+7 | Education | 11.94 | 88.06
+8 | Default | 9.09 | 90.91
+9 | Housing | 12.20 | 87.80
+10 | Loan | 9.67 | 90.33
+11 | Contact Methods | 10.80 | 89.20
+12 | Previous Outcome | 25.80 |74.20
 
 
-	Categories	Pos Rsp % median	Neg Rsp % median
-0	Age Groups	14.09	85.91
-1	Balance Groups	11.82	88.18
-2	Duration Groups	11.82	88.18
-3	Campaign Groups	3.31	96.69
-4	Contacts performed before this campaign groups	23.08	76.92
-5	Jobs	11.82	88.18
-6	Marital Status	11.95	88.05
-7	Education	12.07	87.94
-8	Default	9.09	90.91
-9	Housing	12.20	87.80
-10	Loan	9.67	90.33
-11	Contact Methods	13.42	86.58
-12	Previous Outcome	14.64	85.35
+Categories | Pos Rsp % median | Neg Rsp % median
+0 | Age Groups | 14.09 | 85.91
+1 | Balance Groups | 11.82 | 88.18
+2 | Duration Groups | 11.82 | 88.18
+3 | Campaign Groups | 3.31 | 96.69
+4 | Contacts performed before this campaign groups | 23.08 | 76.92
+5 | Jobs | 11.82 | 88.18
+6 | Marital Status | 11.95 | 88.05
+7 | Education | 12.07 | 87.94
+8 | Default | 9.09 | 90.91
+9 | Housing | 12.20 | 87.80
+10 | Loan | 9.67 | 90.33
+11 | Contact Methods | 13.42 | 86.58
+12 | Previous Outcome | 14.64 | 85.35
 
 
 Calculating the average and median response change for each category, further proves that previous outcome is the most important category from this bank marketing analysis, followed by contact performed before this campaign. Though it should be noted that the median positive response for Contact performed before this campaign is 23.08%, this is higher compared to the Previous Outcome category, 14.64%. The reason for this is that the distribution for the Previous Outcome category is more skewed compared to the Contact performed before this campaign category. As a result of this, contact performed before this campaign category can be considered the most important category because regardless of the response presented in the category, there is a higher likelihood of clients responding positively to a bank term deposit subscription, compared to the Previous Outcome category. 
