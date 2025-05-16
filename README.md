@@ -1,7 +1,8 @@
 # Bank-Marketing-Analysis
 Introduction
 
-In recent years the number of banks have increased from 270 in 20181 to 362 in 20242, in the Uk. To stay competitive within this dynamic industry, a good marketing strategy is needed to attract and engage old and new customers. Thus the global banking sector tends to spend over $82 billion (in 2023)3 on marketing campaigns to retain and attract new customers. These campaigns need to be customer focused to ensure success or else banks will be burning millions on ineffective campaigns. A report from The Financial Brand found that 63% of banks view that return on investment from marketing campaigns to be their most important performance indicator. For success customer and marketing analysis is needed for banks to understand their customers. 
+In recent years the number of banks have increased from [270 in 2018 ](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/numberofbanks.) to [362 in 2024]( https://www.statista.com/topics/11974/banking-industry-in-the-uk/.), in the Uk. To stay competitive within this dynamic industry, a good marketing strategy is needed to attract and engage old and new customers. Thus the global banking sector tends to spend over [$82 billion (in 2023)](https://seosandwitch.com/bank-marketing-statistics/.) on marketing campaigns to retain and attract new customers. These campaigns need to be customer focused to ensure success or else banks will be burning millions on ineffective campaigns. A report from The Financial Brand found that 63% of banks view that return on investment from marketing campaigns to be their most important performance indicator. For success customer and marketing analysis is needed for banks to understand their customers. 
+
 Aim:
 Identify clients that are more likely to subscribe to the bank’s term deposit.
 
@@ -106,12 +107,4 @@ Dataset
 
 
 
-
-
-
-Bibliography:
-
-    1. Bhattacharya, Joydeep. ‘Bank Marketing Statistics: Investment, Revenue & ROI Trends’. SEO Sandwitch (blog), 6 April 2025. https://seosandwitch.com/bank-marketing-statistics/.
-    2. ‘Number of Banks - Office for National Statistics’. Accessed 16 May 2025. https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/numberofbanks.
-    3. Statista. ‘Topic: Banking in the UK’. Accessed 16 May 2025. https://www.statista.com/topics/11974/banking-industry-in-the-uk/.
 
